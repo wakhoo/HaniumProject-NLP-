@@ -15,7 +15,7 @@ By analyzing technical documents using artificial intelligence, key keywords and
 
 
 ### Demo Video
-<iframe width="966" height="543" src="https://www.youtube.com/embed/cBynl_P0z6M" title="한이음 ICT 멘토링 뉴비러닝팀 프로젝트 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/cBynl_P0z6M"><text>Link to YouTube</text></a>
 
 ### Result
 
